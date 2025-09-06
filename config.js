@@ -48,17 +48,17 @@ global.makiJadibts = true
 
 //*─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─*
 
-global.packsticker = `⏤͟͞ू⃪  ̸̷͢Makima 𝐁𝐨𝐭𑁯ᰍ\n`
-global.packname = `⏤͟͞ू⃪  ̸̷͢Makima 𝐁𝐨𝐭𑁯ᰍ`
-global.author = `socket:\n✐ MakimaBot\n\nStickers Desarrollados en Deymoon Club`;
-global.wm = '⏤͟͞ू⃪  ̸̷͢𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 Deymoon Club';
-global.titulowm = '⏤͟͞ू⃪Makima 𝐁𖹭t͟𑁯ᰍ';
-global.igfg = 'Deymoon Club'
-global.botname = 'Makima 𝐁𝐨𝐭 𝐌𝐃'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ Deymoon Club'
-global.textbot = 'Mak𝐢 : DEYMOON CLUB'
-global.gt = '͟͞𝐃𝐞𝐧𝐣𝐢';
-global.namechannel = 'Mak𝐢 𝐂𝐡a͟𝐧n͟e͟𝐥𑁯'
+global.packsticker = `⏤͟͞ू⃪  ̸̷͢Yoishi 𝐁𝐨𝐭𑁯ᰍ\n`
+global.packname = `⏤͟͞ू⃪  ̸̷͢Yoishi 𝐁𝐨𝐭𑁯ᰍ`
+global.author = `socket:\n✐ Yoishi isagi\n\nStickers Desarrollados en Duarte`;
+global.wm = '⏤͟͞ू⃪  ̸̷͢𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 Duarte';
+global.titulowm = '⏤͟͞ू⃪Yoishi 𝐁ot͟𑁯ᰍ';
+global.igfg = 'DuarteXV'
+global.botname = 'Yoishi 𝐁𝐨𝐭 𝐌𝐃'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ Duarte'
+global.textbot = 'Duarte'
+global.gt = '͟͞𝐃uarte';
+global.namechannel = 'Yoishi 𝐂𝐡a͟𝐧n͟e͟𝐥𑁯'
 
 //*─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─*
 
