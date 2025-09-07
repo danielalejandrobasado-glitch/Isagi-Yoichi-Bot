@@ -4,6 +4,6 @@
 
 ---
 
-Yoishi isagi Bot MD 
+Isagi Yoichi Bot MD 
 
 ---
