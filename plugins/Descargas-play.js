@@ -16,7 +16,7 @@ const handler = async (m, { conn, text, usedPrefix, command }) => {
     }
 
     const body = `*┏━━━━━━━━━━━━━━━━━⬣*
-*┃ 💎 MAKIMA - PLAY 💎*
+*┃ 💎 ISAGI - PLAY 💎*
 *┗━━━━━━━━━━━━━━━━━⬣*
 
 🩵 *TÍTULO:* 
