@@ -16,7 +16,7 @@ if (!afkTime || afkTime < 0) {
 continue;
 }
 const reason = user.afkReason || '';
-conn.reply(m.chat, `🩵 *El Usuario Esta Inactivo No Lo Etiquetes*`, m, fake)
+conn.reply(m.chat, `🩵 *El Egoista Esta Inactivo No Lo Etiquetes*`, m, fake)
 }
 return true;
 }
