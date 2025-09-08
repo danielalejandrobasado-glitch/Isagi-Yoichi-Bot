@@ -64,10 +64,10 @@ global.namechannel = 'Yoishi 𝐂𝐡a͟𝐧n͟e͟𝐥𑁯'
 
 global.moneda = '¥'
 
-//• ↳ ◜𝑳𝑰𝑵𝑲𝑺  𝑫𝑬𝒀𝑴𝑶𝑶𝑵 𝑪𝑳𝑼𝑩◞ • 🩵
-global.gp4 = 'https://chat.whatsapp.com/ETZduk7trjG9xgTXVCRHYK?mode=ac_t' //Grupo Oficial De Makima 
-global.gp1 = 'https://chat.whatsapp.com/ETZduk7trjG9xgTXVCRHYK?mode=ac_t' //Grupo 2
-global.gp2 = 'https://chat.whatsapp.com/ETZduk7trjG9xgTXVCRHYK?mode=ac_t'//
+//• ﹒⌗﹒𝑳𝑰𝑵𝑲𝑺 𝑮𝑹𝑼𝑷𝑶𝑺/𝑪𝑨𝑵𝑨𝑳𝑬𝑺 𝑶𝑭𝑰𝑪𝑰𝑨𝑳𝑬𝑺.ৎ🩵˚₊‧ 
+global.gp4 = 'https://chat.whatsapp.com/GPfABUmCuVN2Qu1d1PPcBY?mode=ems_copy_t' //Grupo Oficial De Makima 
+global.gp1 = 'https://chat.whatsapp.com/G3CacsGOOBACv7ssuUoJVj?mode=ems_copy_t' //Grupo 2
+global.gp2 = 'https://chat.whatsapp.com/G3CacsGOOBACv7ssuUoJVj?mode=ems_copy_t'//
 global.channel = 'https://whatsapp.com/channel/0029Vb73g1r1NCrTbefbFQ2T' //Canal Oficial
 global.channel2 = 'https://whatsapp.com/channel/0029Vb73g1r1NCrTbefbFQ2T' //Canal test 
 global.yt = 'https://dash.kurayamihost.dpdns.org/home' //Canal De Youtube
