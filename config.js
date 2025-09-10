@@ -54,11 +54,11 @@ global.author = `socket:\n✐ Yoishi isagi\n\nStickers Desarrollados en Duarte`;
 global.wm = '⏤͟͞ू⃪  ̸̷͢𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 Duarte';
 global.titulowm = '⏤͟͞ू⃪Yoishi 𝐁ot͟𑁯ᰍ';
 global.igfg = 'DuarteXV'
-global.botname = 'Yoishi 𝐁𝐨𝐭 𝐌𝐃'
+global.botname = 'Isagi Yoichi 𝐁𝐨𝐭 𝐌𝐃'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ Duarte'
 global.textbot = 'Duarte'
 global.gt = '͟͞𝐃uarte';
-global.namechannel = 'Yoishi 𝐂𝐡a͟𝐧n͟e͟𝐥𑁯'
+global.namechannel = 'Isagi Yoichi bot'
 
 //*─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─*
 
