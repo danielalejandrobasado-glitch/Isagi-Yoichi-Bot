@@ -108,7 +108,7 @@ let handler = async (m, { conn, usedPrefix, text, command }) => {
       let menu = `¡Hola! ${taguser} soy ${botname} ${botStatus}
       
 ╭━━I N F O-B O-T━━
-┃Creador: 𓆩‌۫᷼ ִֶָღܾ݉͢ғ꯭ᴇ꯭፝ℓɪ꯭ͨא𓆪
+┃Creador: DuarteXV 
 ┃Tiempo activo: ${uptime}
 ┃Baileys: Multi device
 ┃Moneda actual: ${moneda}
