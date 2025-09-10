@@ -5,12 +5,12 @@ let handler = async (m, { conn }) => {
   }
 
   // Datos de los contactos
-  let numberCreator = '573244642273' // Número de la creadora
-  let nombreCreator = '💎 C R E A D O R 💎'
-  let canal = 'https://wa.me/573244642273'
+  let numberCreator = '573244642273' // Número del creador
+  let nombreCreator = '💎 DuarteXV 💎'
+  let canal = 'https://whatsapp.com/channel/0029Vb73g1r1NCrTbefbFQ2T'
 
   let numberBot = '212649023476' // Número del bot
-  let nombreBot = 'BOT OFICIAL'
+  let nombreBot = 'ISAGI YOICHI BOT 
 
   let numberManuel = '18293142989'
   let nombreManuel = 'SOPORTE KURAYAMI HOSTING'
