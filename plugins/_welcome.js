@@ -17,11 +17,11 @@ export async function before(m, { conn, participants, groupMetadata }) {
   }
 
   if (chat.welcome && m.messageStubType == 27) {
-    let bienvenida = `𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐨 𝐚 ${groupMetadata.subject}\n\n✰ @${m.messageStubParameters[0].split`@`[0]}\nシ︎ 𝐃𝐢𝐬𝐟𝐫𝐮𝐭𝐚 𝐝𝐞 𝐭𝐮 𝐞𝐬𝐭𝐚𝐝𝐢𝐚 𝐚𝐪𝐮𝐢 𝐞𝐧 𝐞𝐥 𝐠𝐫𝐮𝐩𝐨\n> 𝐔𝐬𝐚 #help 𝐩𝐚𝐫𝐚 𝐯𝐞𝐫 𝐦𝐢 𝐥𝐢𝐬𝐭𝐚 𝐝𝐞 𝐜𝐨𝐦𝐚𝐧𝐝𝐨𝐬.\nhttps://deymoon-club.vercel.app/`    
+    let bienvenida = `𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐨 𝐚 ${groupMetadata.subject}\n\n✰ @${m.messageStubParameters[0].split`@`[0]}\nシ︎ 𝐃𝐢𝐬𝐟𝐫𝐮𝐭𝐚 𝐝𝐞 𝐭𝐮 𝐞𝐬𝐭𝐚𝐝𝐢𝐚 𝐚𝐪𝐮𝐢 𝐞𝐧 𝐞𝐥 𝐠𝐫𝐮𝐩𝐨\n> 𝐔𝐬𝐚 #help 𝐩𝐚𝐫𝐚 𝐯𝐞𝐫 𝐦𝐢 𝐥𝐢𝐬𝐭𝐚 𝐝𝐞 𝐜𝐨𝐦𝐚𝐧𝐝𝐨𝐬.https://whatsapp.com/channel/0029Vb73g1r1NCrTbefbFQ2T`    
     await conn.sendMini(m.chat, txt, dev, bienvenida, img, img, redes, fkontak)
   }
 
   if (chat.welcome && (m.messageStubType == 28 || m.messageStubType == 32)) {
-    let bye = `𝐀𝐝𝐢𝐨𝐬 𝐃𝐞 ${groupMetadata.subject}\n\n✰ @${m.messageStubParameters[0].split`@`[0]}\n\nシ︎ 𝐀𝐡𝐨𝐫𝐚 𝐪𝐮𝐞𝐝𝐚𝐦𝐨𝐬 ${groupSize} 𝐌𝐢𝐞𝐦𝐛𝐫𝐨𝐬.\n> 𝐔𝐬𝐚 #help 𝐏𝐚𝐫𝐚 𝐯𝐞𝐫 𝐦𝐢 𝐥𝐢𝐬𝐭𝐚 𝐝𝐞 𝐜𝐨𝐦𝐚𝐧𝐝𝐨𝐬.\nhttps://deymoon-club.vercel.app/`
+    let bye = `𝐀𝐝𝐢𝐨𝐬 𝐃𝐞 ${groupMetadata.subject}\n\n✰ @${m.messageStubParameters[0].split`@`[0]}\n\nシ︎ 𝐀𝐡𝐨𝐫𝐚 𝐪𝐮𝐞𝐝𝐚𝐦𝐨𝐬 ${groupSize} 𝐌𝐢𝐞𝐦𝐛𝐫𝐨𝐬.\n> 𝐔𝐬𝐚 #help 𝐏𝐚𝐫𝐚 𝐯𝐞𝐫 𝐦𝐢 𝐥𝐢𝐬𝐭𝐚 𝐝𝐞 𝐜𝐨𝐦𝐚𝐧𝐝𝐨𝐬.https://whatsapp.com/channel/0029Vb73g1r1NCrTbefbFQ2T`
     await conn.sendMini(m.chat, txt1, dev, bye, img, img, redes, fkontak)
   }}
