@@ -580,3 +580,10 @@ let handler = async (m, { conn, usedPrefix, text, command }) => {
     await m.react('❌');
   }
 };
+handler.help = ['menu', 'setbanner', 'setname'];
+handler.tags = ['main'];
+handler.command = ['menu', 'help', 'menú', 'asistenciabot', 'comandosbot', 'listadecomandos', 'menucompleto', 'setbanner', 'setname'];
+handler.register = true;
+
+
+export default handler;
