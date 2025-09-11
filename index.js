@@ -39,15 +39,15 @@ const PORT = process.env.PORT || process.env.SERVER_PORT || 3000
 
 let { say } = cfonts
 
-console.log(chalk.bold.redBright(`\nMakima Bot MD\n`))
+console.log(chalk.bold.redBright(`\nYoishi Bot\n`))
 
-say('🩵 Makima Bot 🩵', {
+say('🩵 Yoishi Bot 🩵', {
 font: 'block',
 align: 'center',
 colors: ['redBright']
 })
 
-say(`Made with Felix`, {
+say(`Made with Duarte`, {
 font: 'console',
 align: 'center',
 colors: ['blueBright']
