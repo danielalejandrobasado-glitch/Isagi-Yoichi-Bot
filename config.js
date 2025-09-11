@@ -48,15 +48,15 @@ global.makiJadibts = true
 
 //*─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─*
 
-global.packsticker = `⏤͟͞ू⃪  ̸̷͢Yoishi 𝐁𝐨𝐭𑁯ᰍ\n`
-global.packname = `⏤͟͞ू⃪  ̸̷͢Yoishi 𝐁𝐨𝐭𑁯ᰍ`
-global.author = `socket:\n✐ Yoishi isagi\n\nStickers Desarrollados en Duarte`;
-global.wm = '⏤͟͞ू⃪  ̸̷͢𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 Duarte';
-global.titulowm = '⏤͟͞ू⃪Yoishi 𝐁ot͟𑁯ᰍ';
+global.packsticker = `⏤͟͞ू⃪  ̸̷͢Yoichi 𝐁𝐨𝐭𑁯ᰍ\n`
+global.packname = `⏤͟͞ू⃪  ̸̷͢Yoichi 𝐁𝐨𝐭𑁯ᰍ`
+global.author = `socket:\n✐ Yoichi isagi\n\nStickers Desarrollados en Duarte`;
+global.wm = '⏤͟͞ू⃪  ̸̷͢𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐃𝐮𝐚𝐫𝐭𝐞';
+global.titulowm = '⏤͟͞ू⃪Yoichi 𝐁ot͟𑁯ᰍ';
 global.igfg = 'DuarteXV'
 global.botname = 'Isagi Yoichi 𝐁𝐨𝐭 𝐌𝐃'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ Duarte'
-global.textbot = 'Duarte'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ძᥙᥲr𝗍ᥱ'
+global.textbot = '⏤͟͟͞͞𝐃𝐮𝐚𝐫𝐭𝐞'
 global.gt = '͟͞𝐃uarte';
 global.namechannel = 'Isagi Yoichi bot'
 
