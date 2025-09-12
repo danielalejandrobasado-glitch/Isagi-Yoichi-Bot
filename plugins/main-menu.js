@@ -5,7 +5,7 @@ import { performance } from 'perf_hooks'
 let handler = async (m, { conn, usedPrefix }) => {
   
   // Imagen que saldrá en la tarjeta
-  let media = 'https://telegra.ph/file/25da44f8dc38b4f08f3c2.jpg' // cambia el link por tu foto
+  let media = 'https://files.catbox.moe/qd9cd2.jpg' // cambia el link por tu foto
   
   // Tiempo activo
   let uptime = process.uptime() * 1000
