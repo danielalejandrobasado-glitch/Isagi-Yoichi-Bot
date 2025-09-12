@@ -283,7 +283,7 @@ let handler = async (m, { conn, usedPrefix }) => {
     text: menu,
     contextInfo: {
       externalAdReply: {
-        title: `⏤͟͟͞͞${conn.user.name} 🩵`,
+        title: `⏤͟͟͞͞𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐃𝐮𝐚𝐫𝐭𝐞 ☆`,
         body: '⏤͟͞ू⃪𝐁𝕃𝐔𝔼 𝐋𝕆𝐂𝕂 𝐂𝕃𝐔𝔹 𑁯🩵ᰍ',
         thumbnailUrl: media,
         sourceUrl: 'https://github.com/ittschinitaaa', // pon tu enlace
