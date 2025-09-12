@@ -283,8 +283,8 @@ let handler = async (m, { conn, usedPrefix }) => {
     text: menu,
     contextInfo: {
       externalAdReply: {
-        title: `⏤͟͟͞͞𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐃𝐮𝐚𝐫𝐭𝐞 ☆`,
-        body: '⏤͟͞ू⃪𝐁𝕃𝐔𝔼 𝐋𝕆𝐂𝕂 𝐂𝕃𝐔𝔹 𑁯🩵ᰍ',
+        title:`⏤͟͞ू⃪𝐁𝕃𝐔𝔼 𝐋𝕆𝐂𝕂 𝐂𝕃𝐔𝔹 𑁯🩵ᰍ`,
+        body: '⏤͟͟͞͞𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐃𝐮𝐚𝐫𝐭𝐞 ☆',
         thumbnailUrl: media,
         sourceUrl: 'https://github.com/ittschinitaaa', // pon tu enlace
         mediaType: 1,
@@ -305,8 +305,7 @@ function clockString(ms) {
   return [h, m, s].map(v => v.toString().padStart(2, 0)).join(':')
 }
 
-/*import os from 'os'
-
+/*import os from 'title
 var handler = async (m, { conn }) => {
     try {
         // Tiempo activo
@@ -314,7 +313,7 @@ var handler = async (m, { conn }) => {
         const horas = Math.floor(uptime / 3600)
         const minutos = Math.floor((uptime % 3600) / 60)
         const segundos = Math.floor(uptime % 60)
-        const tiempoActivo = `${horas}h ${minutos}m ${segundos}s`
+        const tiempoActivo = `${horas}h ${minutos}m ${se:gundos}s`
 
         // Nombre del bot
         const nombreBot = conn.user?.name || "MiBot"
