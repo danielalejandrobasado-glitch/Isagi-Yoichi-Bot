@@ -25,34 +25,13 @@ var handler = async (m, { conn }) => {
 📂 *Categorías de Comandos*
 
 ╭─❒ General
-│ • ${usedPrefix}menu
-│ • ${usedPrefix}ping
-│ • ${usedPrefix}owner
-│ • ${usedPrefix}botinfo
+│ • #menu
+│ • #ping
+│ • #owner
+│ • #botinfo
 ╰─────────────
 
-╭─❒ Herramientas
-│ • ${usedPrefix}calcular
-│ • ${usedPrefix}qr
-│ • ${usedPrefix}acortar
-│ • ${usedPrefix}clima
-╰─────────────
 
-╭─❒ Administración
-│ • ${usedPrefix}kick
-│ • ${usedPrefix}ban
-│ • ${usedPrefix}promote
-│ • ${usedPrefix}demote
-│ • ${usedPrefix}linkgrupo
-╰─────────────
-
-╭─❒ Estéticos
-│ • ${usedPrefix}nick (nombre)
-│ • ${usedPrefix}randomnick
-│ • ${usedPrefix}frasebonita
-╰─────────────
-
-✨ Usa el prefijo *${usedPrefix}* antes de cada comando.
 `
 
         conn.reply(m.chat, menu, m)
