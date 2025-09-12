@@ -1,3 +1,5 @@
+//código creado por: https://github.com/ittschinitaaa
+
 import fs from 'fs'
 import os from 'os'
 import { performance } from 'perf_hooks'
@@ -284,7 +286,7 @@ let handler = async (m, { conn, usedPrefix }) => {
         title: `⏤͟͟͞͞${conn.user.name} 🩵`,
         body: '⏤͟͞ू⃪𝐁𝕃𝐔𝔼 𝐋𝕆𝐂𝕂 𝐂𝕃𝐔𝔹 𑁯🩵ᰍ',
         thumbnailUrl: media,
-        sourceUrl: 'https://github.com/miaoficial02', // pon tu enlace
+        sourceUrl: 'https://github.com/ittschinitaaa', // pon tu enlace
         mediaType: 1,
         renderLargerThumbnail: true
       }
@@ -292,7 +294,7 @@ let handler = async (m, { conn, usedPrefix }) => {
   }, { quoted: m })
 }
 
-handler.command = ['menu']
+handler.command = ['menu',`help`]
 export default handler
 
 // Función para mostrar horas/min/seg
