@@ -13,34 +13,267 @@ let handler = async (m, { conn, usedPrefix }) => {
   
   // Texto del menú
   let menu = `
-🥯 Hola soy 🌸 *${conn.user.name}* 
-*(Principal)*
+¡𝐇𝐨𝐥𝐚 𝐔𝐬𝐮𝐚𝐫𝐢𝐨! 𝐒𝐨𝐲 ⏤͟͞ू⃪𝐘𝐨𝐢𝐜𝐡𝐢 𝐁ot͟𑁯ᰍ
 
-⏳ Tiempo activo: *${tiempo}*
-👤 Usuario: *${m.pushName}*
+╭━━I N F O-B O-T━━
+┃Creador: ⏤͟͟͞͞𝐃𝐮𝐚𝐫𝐭𝐞
+┃Tiempo activo: *${tiempo}*
+┃Baileys: Multi device
+┃Usuario: *${m.pushName}*
+╰━━━━━━━━━━━━━
 
-╭━━━『 📖 MENÚ 』
-│ 🍭 *Información*
-│ • ${usedPrefix}ping
-│ • ${usedPrefix}owner
-│ • ${usedPrefix}estado
-│
-│ 👥 *Grupos*
-│ • ${usedPrefix}kick @user
-│ • ${usedPrefix}promote @user
-│ • ${usedPrefix}demote @user
-│ • ${usedPrefix}infogrupo
-│
-│ 🛠️ *Herramientas*
-│ • ${usedPrefix}sticker
-│ • ${usedPrefix}toimg
-│ • ${usedPrefix}tourl
-│
-│ 💖 *Diversión*
-│ • ${usedPrefix}frase
-│ • ${usedPrefix}gay @user
-│ • ${usedPrefix}ship @user
-╰━━━━━━━━━━━━━━━
+➪ 𝗟𝗜𝗦𝗧𝗔 
+       ➪  𝗗𝗘 
+           ➪ 𝗖𝗢𝗠𝗔𝗡𝗗𝗢𝗦
+
+.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
+ ╭ֹ┈ ⵿❀⵿ ┈╮PRINCIPALES
+┃┈➤ #estado
+┃┈➤ #botreglas
+┃┈➤ #menu
+┃┈➤ #menu2
+┃┈➤ #uptime
+┃┈➤ #menulista
+╰━━━━━━━━━━━━━
+
+.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
+ ╭ֹ┈ ⵿❀⵿ ┈╮NUEVOS
+┃┈➤ #artista [nombre]
+┃┈➤ #dalle2
+┃┈➤ #repeat
+┃┈➤ #repite
+┃┈➤ #copiame
+┃┈➤ #soccer
+┃┈➤ #rcjugador
+┃┈➤ #rgjugador
+┃┈➤ #vtjugador
+╰━━━━━━━━━━━━━━━━━━
+
+.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
+ ╭ֹ┈ ⵿❀⵿ ┈╮PERSONALIZACIÓN
+┃┈➤ #set
+╰━━━━━━━━━━━━━━━━━━
+
+.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
+ ╭ֹ┈ ⵿❀⵿ ┈╮SUBBOTS
+┃┈➤ #setname
+┃┈➤ #setbanner
+┃┈➤ #code
+┃┈➤ #qr
+╰━━━━━━━━━━━━━━━━━━
+
+.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
+ ╭ֹ┈ ⵿❀⵿ ┈╮BUSCADORES
+┃┈➤ #gitthubsearch
+┃┈➤ #google [Búsqueda]
+┃┈➤ #tiktoksearch
+┃┈➤ #pinterest
+┃┈➤ #imagen [querry]
+╰━━━━━━━━━━━━━━━━━━
+
+.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
+ ╭ֹ┈ ⵿❀⵿ ┈╮JUEGOS
+┃┈➤ #abrazar
+┃┈➤ #acertijo
+┃┈➤ #agarrar
+┃┈➤ #ahorcado
+┃┈➤ #besar
+┃┈➤ #acariciar
+┃┈➤ #golpear
+┃┈➤ #pregunta
+┃┈➤ #reto
+┃┈➤ #triste
+┃┈➤ #reto
+┃┈➤ #bot
+┃┈➤ #love
+┃┈➤ #consejo
+┃┈➤ #dance
+┃┈➤ #nombreninja
+┃┈➤ #meme
+┃┈➤ #dormir 
+┃┈➤ #rata
+┃┈➤ #enamorada
+┃┈➤ #gay
+┃┈➤ #manco
+┃┈➤ #apostar
+┃┈➤ #piropo
+┃┈➤ #sonrojarse
+┃┈➤ #agarrar
+╰━━━━━━━━━━━━━━━━━━
+
+
+.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
+ ╭ֹ┈ ⵿❀⵿ ┈╮WAIFU
+┃┈➤ #robarpersonaje
+┃┈➤ #obtenidos
+┃┈➤ #sacar
+┃┈➤ #guardar
+┃┈➤ #carrw
+┃┈➤ #confirmar
+┃┈➤ #character
+┃┈➤ #roll
+┃┈➤ #top
+╰━━━━━━━━━━━━━━━━━━
+
+
+.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
+ ╭ֹ┈ ⵿❀⵿ ┈╮REGISTROS
+┃┈➤ #reg
+┃┈➤ #unreg
+┃┈➤ #profile
+┃┈➤ #usuarios
+╰━━━━━━━━━━━━━━━━━━
+
+.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
+ ╭ֹ┈ ⵿❀⵿ ┈╮ECONOMIA
+┃┈➤ #daily
+┃┈➤ #bank
+┃┈➤ #robar
+┃┈➤ #robarxp
+┃┈➤ #rob2
+┃┈➤ #levelup
+┃┈➤ #lb
+┃┈➤ #mine
+┃┈➤ #retirar
+┃┈➤ #trabajar
+┃┈➤ #transferir
+┃┈➤ #crimen
+┃┈➤ #cofre
+╰━━━━━━━━━━━━━━━━━━
+
+.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
+ ╭ֹ┈ ⵿❀⵿ ┈╮DESCARGAS
+┃┈➤ #fb
+┃┈➤ #play
+┃┈➤ #playvid
+┃┈➤ #mediafire
+┃┈➤ #apkmod
+┃┈➤ #ytmp3doc
+┃┈➤ #ytmp4doc
+┃┈➤ #ig
+┃┈➤ #gitclone
+┃┈➤ #tiktok
+┃┈➤ #spotify
+┃┈➤ #tw
+┃┈➤ #ytmp4 
+┃┈➤ #imagen [querry]
+╰━━━━━━━━━━━━━━━━━━
+
+.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
+ ╭ֹ┈ ⵿❀⵿ ┈╮GRUPOS
+┃┈➤ #group abrir 
+┃┈➤ #group cerrar 
+┃┈➤ #delete
+┃┈➤ #setppgroup
+┃┈➤ #encuesta
+┃┈➤ #rentar
+┃┈➤ #kick
+┃┈➤ #promote
+┃┈➤ #demote
+┃┈➤ #tagall 
+┃┈➤ #tag
+┃┈➤ #invite 
+╰━━━━━━━━━━━━━━━━━━
+
+.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
+ ╭ֹ┈ ⵿❀⵿ ┈╮STICKERS
+┃┈➤ #wm [autor]
+┃┈➤ #s
+┃┈➤ #qc
+┃┈➤ #toimg
+╰━━━━━━━━━━━━━━━━━━
+
+.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
+ ╭ֹ┈ ⵿❀⵿ ┈╮DATABASE
+┃┈➤ #delvn
+┃┈➤ #demsg
+┃┈➤ #delimg
+┃┈➤ #delsticker
+┃┈➤ #infobot
+╰━━━━━━━━━━━━━━━━━━
+
+.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
+ ╭ֹ┈ ⵿❀⵿ ┈╮EXPERIENCIA
+┃┈➤ #buy
+┃┈➤ #buyall
+╰━━━━━━━━━━━━━━━━━━
+
+.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
+ ╭ֹ┈ ⵿❀⵿ ┈╮CONFIGURACIÓN
+┃┈➤ #enable
+┃┈➤ #disable
+┃┈➤ #on
+┃┈➤ #off
+╰━━━━━━━━━━━━━━━━━
+
+.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
+ ╭ֹ┈ ⵿❀⵿ ┈╮ANIME
+┃┈➤ #toanime
+┃┈➤ #tts
+┃┈➤ #remini
+┃┈➤ #enhance
+┃┈➤ #hd
+┃┈➤ #nuevafotochannel
+┃┈➤ #nosilenciarcanal
+┃┈➤ #silenciarcanal
+┃┈➤ #seguircanal
+┃┈➤ #inspect
+┃┈➤ #infobot
+┃┈➤ #readvo
+╰━━━━━━━━━━━━━━━━━━
+
+.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
+ ╭ֹ┈ ⵿❀⵿ ┈╮INFORMACIÓN
+┃┈➤ #creador
+┃┈➤ #owner
+┃┈➤ #reportar
+┃┈➤ #ping
+┃┈➤ #links
+╰━━━━━━━━━━━━━━━━━━
+
+.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
+ ╭ֹ┈ ⵿❀⵿ ┈╮CREADOR
+┃┈➤ #addprem
+┃┈➤ #copia
+┃┈➤ #broadcastgroup
+┃┈➤ #bcgb
+┃┈➤ #bcgb2
+┃┈➤ #broadcast
+┃┈➤ #bc
+┃┈➤ #cheat
+┃┈➤ #delprem
+┃┈➤ #dsowner
+┃┈➤ #fixmsgespera
+┃┈➤ #get
+┃┈➤ #prefix
+┃┈➤ #reiniciar 
+┃┈➤ #saveplugin 
+┃┈➤ #update
+┃┈➤ #resetpersonajes
+╰━━━━━━━━━━━━━━━━━━
+
+.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
+ ╭ֹ┈ ⵿❀⵿ ┈╮DESARROLLADORES
+┃┈➤ #autoadmin
+┃┈➤ #banuser
+┃┈➤ #unbanuser
+┃┈➤ #banchat
+┃┈➤ #unbanchat
+┃┈➤ #ip
+┃┈➤ #join
+╰━━━━━━━━━━━━━━━━━━
+
+.       ╭ֹ┈ ⵿❀⵿ ┈╮ ㅤ
+ ╭ֹ┈ ⵿❀⵿ ┈╮A - I
+┃┈➤ #dalle
+┃┈➤ #simi
+┃┈➤ #ai
+┃┈➤ #tovideo
+┃┈➤ #togifaud
+╰━━━━━━━━━━━━━━━━━━
+
+
+> © ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⏤͟͟͞͞ძᥙᥲr𝗍ᥱ
 `
 
   // Enviar tarjeta con imagen y texto del menú
@@ -48,8 +281,8 @@ let handler = async (m, { conn, usedPrefix }) => {
     text: menu,
     contextInfo: {
       externalAdReply: {
-        title: `🌸 ${conn.user.name}`,
-        body: '✨ Usa los comandos a tu gusto',
+        title: `⏤͟͟͞͞${conn.user.name} 🩵`,
+        body: '⏤͟͞ू⃪𝐁𝕃𝐔𝔼 𝐋𝕆𝐂𝕂 𝐂𝕃𝐔𝔹 𑁯🩵ᰍ',
         thumbnailUrl: media,
         sourceUrl: 'https://github.com/miaoficial02', // pon tu enlace
         mediaType: 1,
