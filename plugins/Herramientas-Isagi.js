@@ -17,7 +17,6 @@ export default {
       }
 
       const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
-
       const result = await model.generateContent(text);
       const response = await result.response.text();
 
