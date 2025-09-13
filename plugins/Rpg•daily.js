@@ -17,7 +17,7 @@ let str = `🎁 *Recompensa Diaria*
 Recursos:
 ✨ Xp : *+${isPrems ? exppremium : exp}*
 💎 Diamantes : *+${d}*
-🩵 MakiCoins : *+${coin}*`
+🩵 Blue-lock-points : *+${coin}*`
 conn.reply(m.chat,str, m, fake)
 global.db.data.users[m.sender].lastclaim = new Date * 1
 
