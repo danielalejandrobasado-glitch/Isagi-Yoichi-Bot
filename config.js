@@ -71,9 +71,9 @@ global.gp2 = 'https://chat.whatsapp.com/G3CacsGOOBACv7ssuUoJVj?mode=ems_copy_t'/
 global.channel = 'https://whatsapp.com/channel/0029Vb73g1r1NCrTbefbFQ2T' //Canal Oficial
 global.channel2 = 'https://whatsapp.com/channel/0029Vb73g1r1NCrTbefbFQ2T' //Canal test 
 global.yt = 'https://dash.kurayamihost.dpdns.org/home' //Canal De Youtube
-global.md = 'https://dash.kurayamihost.dpdns.org/home' //Github Oficial
-global.correo = 'https://dash.kurayamihost.dpdns.org/home'
-global.cn ='https://whatsapp.com/channel/0029Vb73g1r1NCrTbefbFQ2T';
+global.md = 'https://github.com/danielalejandrobasado-glitch/Isagi-Yoichi-Bot.git' //Github Oficial
+global.correo = 'danielalejandrobasado@gmail.com 
+global.cn ='https://whatsapp.com/channel/0029Vb73g1r1NCrTbefbFQ2T'
 
 //*─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─*
 
