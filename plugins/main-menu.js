@@ -33,7 +33,6 @@ let handler = async (m, { conn, usedPrefix }) => {
 ┃┈➤ #estado
 ┃┈➤ #botreglas
 ┃┈➤ #menu
-┃┈➤ #menu2
 ┃┈➤ #uptime
 ┃┈➤ #menulista
 ╰━━━━━━━━━━━━━
