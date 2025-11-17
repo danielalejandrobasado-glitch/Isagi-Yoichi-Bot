@@ -37,7 +37,7 @@ const {CONNECTING} = ws
 const {chain} = lodash
 const PORT = process.env.PORT || process.env.SERVER_PORT || 3000
 let { say } = cfonts
-console.log(chalk.bold.redBright(\nYoichi Bot\n))
+console.log(chalk.bold.redBright('\nYoichi Bot\n'))
 say('🩵 Yoichi Bot 🩵', {
 font: 'block',
 align: 'center',
