@@ -38,7 +38,7 @@ global.prems = []
 //*─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─*
 
 global.libreria = 'Baileys'
-global.baileys = 'V 6.7.8'
+global.baileys = 'V 6.7.21'
 global.vs = '2.0.0'
 global.languaje = 'Español'
 global.nameqr = 'Isagi Bot'
