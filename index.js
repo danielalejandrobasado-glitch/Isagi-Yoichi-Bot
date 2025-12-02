@@ -43,7 +43,7 @@ font: 'block',
 align: 'center',
 colors: ['redBright']
 })
-say(Made with Duarte, {
+say('Made with Duarte', {
 font: 'console',
 align: 'center',
 colors: ['blueBright']
